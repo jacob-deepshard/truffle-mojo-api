@@ -1,7 +1,7 @@
 [project]
-authors = ["Jacob Valdez <jacobfv123@gmail.com>"]
+authors = ["Jacob Valdez <jacob@deepshard.org>"]
 channels = ["conda-forge", "https://conda.modular.com/max"]
-description = "Add a short description here"
+description = "Truffle SDK for Mojo"
 name = "truffle"
 platforms = ["osx-arm64"]
 version = "0.1.0"
